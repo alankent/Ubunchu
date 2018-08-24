@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ACBF xmlns="http://www.fictionbook-lib.org/xml/acbf/1.0"><meta-data>
+    <book-info>
+      <coverpage>
+        <image href="01\image_0000.jpg"/>
+      </coverpage>
+    <characters><name>Akane</name><name>Masato</name><name>Risa</name></characters><author activity="Writer"><first-name>Hiroshi</first-name><last-name>Seo</last-name></author><author activity="Artist"><first-name>Hiroshi</first-name><last-name>Seo</last-name></author><author activity="Translator" lang="en"><first-name>Anton</first-name><last-name>Ekblad</last-name></author><author activity="Editor"><first-name>Arturo</first-name><last-name>Silva</last-name></author><author activity="Editor"><first-name>Martin</first-name><last-name>Owens</last-name></author><author activity="Translator" lang="en"><first-name>Kuromabo</first-name><last-name> </last-name></author><author activity="Translator" lang="en"><first-name>Kazken3</first-name><last-name> </last-name></author><author activity="Translator" lang="en"><first-name>Hajime</first-name><last-name>Mizuno</last-name></author><author activity="Translator" lang="en"><first-name>Ritsuko</first-name><last-name>Sato</last-name></author><author activity="Translator" lang="en"><first-name>Fumito</first-name><last-name>Yoshida</last-name></author><author activity="Translator" lang="en"><first-name>Hiroshi</first-name><last-name>Seo</last-name></author><sequence title="Ubunchu!">1</sequence><genre>manga</genre><genre>computer</genre><keywords></keywords><languages><text-layer lang="en" show="False"/></languages><book-title lang="en">Ubunchu Vol. 1</book-title><annotation lang="en"><p>Ubunchu! is a Japanese manga series written by Hiroshi Seo featuring Ubuntu Linux. Three school students in a system-admin club are getting into Ubuntu!</p><p>It features three (and only) members of the Computer Admin Club:</p><p>Akane: The club's president and a hard-core Linux geek who prefers using the command line interface. She's actually skeptical in using Ubuntu because she thinks that Ubuntu is just for watching YouTube.</p><p>Masato: The club's vice president and a Windows user. He is also skeptical in using Linux because he can't play his eroge Visual Novel stuff on non-Windows computers.</p><p>Risa: A Mac user who wants to try out the Ubuntu LiveCD for their club's new computer.</p><p>This volume #1 collects chapters 01-04.</p></annotation></book-info>
+    <publish-info><publish-date value="2010-02-15">2010</publish-date><publisher>www.acbf.info</publisher><city></city><isbn></isbn><license>Creative Commons Attribution-NonCommercial 3.0 Unported</license></publish-info>
+    <document-info><author><nickname>jrw</nickname></author></document-info>
+  </meta-data>
+  <body bgcolor="#ffffff">
+    <page>
+      <image href="01\image_0001.jpg"/>
+    <title lang="en">Chapter 01</title><frame points="63,62 340,59 372,29 432,21 478,27 522,59 794,61 793,436 62,436"/><frame points="56,420 793,420 794,664 62,663"/><frame points="64,671 794,673 795,1029 64,1030"/></page>
+    <page>
+      <image href="01\image_0002.jpg"/>
+    <frame points="41,1 405,0 405,472 41,472"/><frame points="406,0 770,0 770,472 406,472"/><frame points="42,478 236,478 236,1026 40,1026"/><frame points="236,479 770,479 770,749 236,749"/><frame points="236,756 590,756 590,1080 234,1080"/><frame points="590,756 771,756 771,1026 590,1026"/></page>
+    <page>
+      <image href="01\image_0003.jpg"/>
+    <frame points="65,64 564,64 564,310 64,310"/><frame points="562,0 792,0 792,322 542,322 542,307 564,307"/><frame points="64,308 793,308 793,455 560,465 376,463 63,463"/><frame points="65,460 452,460 452,1079 64,1079"/><frame points="452,460 792,460 792,644 454,644"/><frame points="454,652 792,652 792,789 453,789"/><frame points="452,799 792,799 792,1029 453,1029"/></page>
+    <page>
+      <image href="01\image_0004.jpg"/>
+    <frame points="41,62 294,62 294,358 42,358"/><frame points="42,366 296,366 296,577 41,577"/><frame points="294,1 770,1 770,575 294,575"/><frame points="42,584 210,584 210,1027 41,1027"/><frame points="212,583 580,583 580,1027 210,1027"/><frame points="582,585 770,585 770,1026 582,1026"/></page>
+    <page>
+      <image href="01\image_0005.jpg"/>
+    <frame points="66,62 794,62 794,241 64,241"/><frame points="65,250 308,250 308,622 64,622"/><frame points="308,250 551,250 551,622 308,622"/><frame points="553,249 792,249 792,623 550,623"/><frame points="65,630 488,630 488,1079 65,1079"/><frame points="491,631 794,631 794,840 490,840"/><frame points="490,847 792,847 792,1027 488,1027"/></page>
+    <page>
+      <image href="01\image_0006.jpg"/>
+    <frame points="42,61 769,61 769,269 42,269"/><frame points="40,276 237,276 237,704 40,704"/><frame points="238,276 549,276 549,704 236,704"/><frame points="550,275 770,275 770,522 548,522"/><frame points="548,531 770,531 770,705 548,705"/><frame points="41,713 280,713 280,1024 41,1024"/><frame points="281,713 772,713 772,1082 280,1082"/></page>
+    <page>
+      <image href="01\image_0007.jpg"/>
+    <frame points="66,66 202,66 202,493 66,493"/><frame points="204,2 585,2 585,492 202,492"/><frame points="584,65 792,65 792,495 584,495"/><frame points="65,502 434,502 434,1030 64,1030"/><frame points="436,501 792,501 792,662 435,662"/><frame points="436,669 792,669 792,867 436,867"/><frame points="437,877 792,877 792,1026 436,1026"/></page>
+    <page>
+      <image href="01\image_0008.jpg"/>
+    <frame points="39,2 470,2 470,392 41,392"/><frame points="468,61 770,61 770,223 470,223"/><frame points="469,232 624,232 624,389 470,389"/><frame points="626,233 770,233 770,387 626,387"/><frame points="41,399 772,399 772,680 40,680"/><frame points="40,690 284,690 284,1028 42,1028"/><frame points="287,690 548,690 548,1026 286,1026"/><frame points="550,691 770,691 770,1027 548,1027"/></page>
+    <page>
+      <image href="01\image_0009.jpg"/>
+    <frame points="64,1 796,1 796,313 64,313"/><frame points="66,321 796,321 796,445 65,445"/><frame points="66,452 297,452 297,1080 67,1080"/><frame points="297,451 792,451 792,588 298,588"/><frame points="300,594 793,594 793,839 299,839"/><frame points="298,849 793,849 793,1027 299,1027"/></page>
+    <page>
+      <image href="01\image_0010.jpg"/>
+    <frame points="38,1 322,1 322,397 42,397"/><frame points="321,0 502,0 502,398 324,398"/><frame points="500,1 771,1 771,397 502,397"/><frame points="42,406 771,406 771,699 40,699"/><frame points="40,685 773,685 773,824 41,824"/><frame points="30,835 58,817 776,817 784,866 810,899 813,943 813,991 787,1023 764,1065 629,1073 575,1057 434,1055 295,1059 128,1052 80,1021 57,973 42,909 28,865"/></page>
+    <page>
+      <image href="02\image_0000.jpg"/>
+    <title lang="en">Chapter 02</title></page>
+    <page>
+      <image href="02\image_0002.jpg"/>
+    <frame points="96,104 1300,104 1300,402 96,402"/><frame points="98,414 568,414 578,376 602,342 650,326 712,346 732,388 736,414 1300,414 1300,938 92,938"/><frame points="96,952 398,952 400,894 440,838 484,784 554,718 662,704 766,742 816,786 836,846 834,884 800,942 1300,950 1300,1348 96,1348"/><frame points="94,1344 796,1344 796,1696 94,1696"/><frame points="796,1362 1300,1362 1300,1784 792,1784"/></page>
+    <page>
+      <image href="02\image_0003.jpg"/>
+    <frame points="56,0 1262,0 1262,612 56,612"/><frame points="58,622 1260,622 1260,854 56,854"/><frame points="62,864 404,864 446,848 524,848 550,802 608,772 696,782 744,816 768,864 1260,864 1260,1426 56,1426"/><frame points="54,1422 822,1422 822,1786 60,1786"/><frame points="824,1440 1262,1440 1262,1696 820,1696"/></page>
+    <page>
+      <image href="02\image_0004.jpg"/>
+    <frame points="94,6 648,6 648,908 94,908 96,806 2,682 6,582 92,534"/><frame points="644,106 932,106 932,906 648,906"/><frame points="932,106 1302,106 1302,536 934,536"/><frame points="932,550 1300,550 1300,902 932,902"/><frame points="96,916 632,916 632,874 668,824 740,804 830,834 884,878 902,908 1304,908 1304,1396 96,1396"/><frame points="94,1404 1304,1404 1304,1696 94,1696"/></page>
+    <page>
+      <image href="02\image_0005.jpg"/>
+    <frame points="60,102 148,102 208,62 278,54 356,82 372,100 884,100 912,70 980,56 1048,72 1102,100 1268,100 1268,394 54,394"/><frame points="56,404 76,396 128,374 176,364 326,374 364,394 1266,394 1266,568 1272,604 1268,672 1268,934 56,934"/><frame points="56,1308 56,1160 10,1076 16,996 52,928 128,884 194,880 268,906 312,930 400,920 436,934 1266,934 1266,1306"/><frame points="56,1316 492,1316 492,1784 58,1784"/><frame points="492,1320 960,1320 960,1694 492,1694"/><frame points="964,1320 1260,1320 1260,1694 962,1694"/></page>
+    <page>
+      <image href="02\image_0006.jpg"/>
+    <frame points="96,100 1298,100 1298,590 94,590"/><frame points="96,598 1302,598 1302,858 92,858"/><frame points="96,868 464,868 464,1296 94,1296"/><frame points="464,872 960,872 960,1296 466,1296"/><frame points="962,868 1304,868 1304,1296 962,1296"/><frame points="94,1304 850,1304 850,1696 94,1696"/><frame points="850,1304 1300,1304 1300,1696 848,1696"/></page>
+    <page>
+      <image href="02\image_0007.jpg"/>
+    <frame points="60,104 1266,104 1266,470 56,470"/><frame points="60,478 836,478 836,762 56,762"/><frame points="840,484 1264,484 1264,762 840,762"/><frame points="56,774 1262,774 1262,1336 52,1336"/><frame points="58,1346 1264,1346 1264,1360 1304,1388 1312,1412 1300,1458 1306,1508 1300,1536 1344,1640 1346,1680 1292,1778 720,1776 684,1738 690,1702 54,1702"/></page>
+    <page>
+      <image href="02\image_0008.jpg"/>
+    <frame points="98,102 1302,102 1302,702 92,702"/><frame points="96,710 510,710 510,1348 92,1348"/><frame points="512,708 906,708 906,1344 512,1344"/><frame points="910,712 1300,712 1300,1128 908,1128"/><frame points="908,1140 1300,1140 1300,1344 908,1344"/><frame points="96,1354 1302,1354 1302,1696 94,1696"/></page>
+    <page>
+      <image href="02\image_0009.jpg"/>
+    <frame points="60,2 544,2 544,742 60,742"/><frame points="542,108 1262,108 1262,518 544,518"/><frame points="546,528 1262,528 1262,742 544,742"/><frame points="56,754 424,754 426,706 464,654 520,630 600,594 714,592 802,624 836,662 848,718 844,754 1264,754 1264,1184 58,1184"/><frame points="56,1192 588,1192 588,1784 56,1784"/><frame points="590,1192 974,1192 974,1694 588,1694"/><frame points="976,1188 1264,1188 1264,1414 974,1414"/><frame points="974,1428 1264,1428 1264,1696 974,1696"/></page>
+    <page>
+      <image href="02\image_0010.jpg"/>
+    <frame points="4,6 1358,6 1358,1160 2,1160"/><frame points="98,1164 518,1164 518,1692 96,1692"/><frame points="522,1164 1072,1164 1072,1692 518,1692"/><frame points="1072,1162 1298,1162 1298,1692 1072,1692"/></page>
+    <page>
+      <image href="02\image_0011.jpg"/>
+    <frame points="58,102 1264,102 1264,330 56,330"/><frame points="56,340 1262,340 1262,810 58,810"/><frame points="56,820 1264,820 1264,1342 58,1342"/><frame points="102,1344 872,1344 916,1328 966,1340 1260,1340 1260,1772 456,1772 380,1656 100,1656"/></page>
+    <page>
+      <image href="03\image_0000.jpg"/>
+    <title lang="en">Chapter 03</title></page>
+    <page>
+      <image href="03\image_0002.jpg"/>
+    <frame points="96,104 1298,104 1298,414 98,414"/><frame points="102,428 1298,428 1298,690 96,690"/><frame points="96,702 1298,702 1298,1318 98,1318"/><frame points="94,1308 1298,1308 1298,1698 96,1698"/></page>
+    <page>
+      <image href="03\image_0003.jpg"/>
+    <frame points="60,106 398,106 398,746 56,746"/><frame points="398,106 1258,106 1258,744 398,744"/><frame points="58,754 528,754 528,990 56,990"/><frame points="530,756 1262,756 1262,992 528,992"/><frame points="58,1006 950,1006 950,1786 58,1786"/><frame points="954,1008 1258,1008 1258,1698 950,1698"/></page>
+    <page>
+      <image href="03\image_0004.jpg"/>
+    <frame points="98,104 342,104 342,794 98,794"/><frame points="342,0 1060,0 1060,794 342,794"/><frame points="1062,106 1302,106 1302,796 1060,796"/><frame points="98,806 1300,806 1300,1094 96,1094"/><frame points="94,1102 422,1102 422,1492 94,1492"/><frame points="96,1500 422,1500 422,1696 94,1696"/><frame points="422,1102 962,1102 962,1784 422,1784"/><frame points="968,1100 1298,1100 1298,1696 966,1696"/></page>
+    <page>
+      <image href="03\image_0005.jpg"/>
+    <frame points="58,102 1266,102 1266,370 56,370"/><frame points="56,378 1024,378 1024,940 56,940"/><frame points="1022,376 1262,376 1262,786 1296,816 1282,854 1262,866 1262,940 1110,940 1094,954 1062,952 1026,934"/><frame points="58,946 766,946 766,1696 56,1696"/><frame points="766,948 1264,948 1264,1388 766,1388"/><frame points="766,1396 1262,1396 1262,1696 766,1696"/></page>
+    <page>
+      <image href="03\image_0006.jpg"/>
+    <frame points="18,286 54,98 152,70 202,102 1302,102 1302,374 90,374 20,326"/><frame points="96,382 1302,382 1302,910 96,910"/><frame points="98,914 1302,914 1302,1154 94,1154"/><frame points="94,1164 362,1164 362,1698 94,1698"/><frame points="362,1164 1038,1164 1038,1696 364,1696"/><frame points="1038,1160 1302,1160 1302,1694 1038,1694"/></page>
+    <page>
+      <image href="03\image_0007.jpg"/>
+    <frame points="10,108 66,20 178,40 198,98 514,98 490,82 508,26 544,2 708,2 790,74 802,102 1262,102 1266,282 1276,318 1276,428 1264,484 1264,610 994,610 910,614 590,618 530,608 58,608 58,424 30,388"/><frame points="58,622 500,622 500,1370 58,1370"/><frame points="502,622 938,622 938,1368 502,1368"/><frame points="936,616 1262,616 1262,1372 936,1372"/><frame points="58,1380 1262,1380 1262,1700 54,1700"/></page>
+    <page>
+      <image href="03\image_0008.jpg"/>
+    <frame points="94,0 688,0 688,848 94,848"/><frame points="686,102 1304,102 1304,458 684,458"/><frame points="686,468 1300,468 1300,846 686,846"/><frame points="96,858 1052,858 1052,1190 96,1190"/><frame points="1054,862 1302,862 1302,1192 1052,1192"/><frame points="98,1204 1302,1204 1302,1430 94,1430"/><frame points="98,1436 1298,1436 1298,1700 96,1700"/></page>
+    <page>
+      <image href="03\image_0009.jpg"/>
+    <frame points="54,0 928,0 928,516 58,516"/><frame points="930,104 1262,104 1262,518 928,518"/><frame points="60,530 850,530 850,774 60,774"/><frame points="850,532 1260,532 1260,774 850,774"/><frame points="58,790 1262,790 1262,1202 58,1202"/><frame points="58,1216 376,1216 408,1154 440,1132 492,1140 534,1138 606,1158 656,1184 686,1210 926,1210 926,1694 60,1694"/><frame points="930,1212 1262,1212 1262,1692 930,1692"/></page>
+    <page>
+      <image href="03\image_0010.jpg"/>
+    <frame points="98,0 570,0 570,816 94,816"/><frame points="568,106 1298,106 1298,318 572,318"/><frame points="572,330 1302,330 1302,606 572,606"/><frame points="572,622 1300,622 1300,812 570,812"/><frame points="98,824 1304,824 1304,1416 94,1416"/><frame points="98,1426 1300,1426 1300,1696 96,1696"/></page>
+    <page>
+      <image href="03\image_0011.jpg"/>
+    <frame points="56,0 650,0 650,666 58,666"/><frame points="650,6 942,6 942,664 650,664"/><frame points="944,0 1258,0 1258,662 942,662"/><frame points="58,674 1262,674 1262,834 58,834"/><frame points="58,848 1262,848 1262,1434 56,1434"/><frame points="198,1436 1156,1436 1156,1626 1270,1648 1228,1724 1162,1762 978,1738 194,1728"/></page>
+    <page>
+      <image href="04\image_0000.jpg"/>
+    <title lang="en">Chapter 04</title></page>
+    <page>
+      <image href="04\image_0002.jpg"/>
+    <frame points="90,98 1191,98 1191,344 90,344"/><frame points="89,354 384,354 404,300 428,283 453,277 483,256 534,248 588,252 636,269 679,296 707,326 719,348 951,348 947,327 954,313 976,314 1003,353 1043,353 1099,284 1134,230 1143,223 1155,225 1161,246 1157,276 1172,268 1194,246 1211,247 1219,269 1222,291 1189,358 1189,386 1218,364 1231,369 1232,387 1215,415 1192,432 1192,853 88,853"/><frame points="91,862 439,862 456,827 483,797 513,777 550,763 598,758 649,767 687,789 711,813 733,853 739,863 1189,863 1189,1284 90,1284"/><frame points="91,1295 1191,1295 1191,1551 89,1551"/></page>
+    <page>
+      <image href="04\image_0003.jpg"/>
+    <frame points="60,99 1153,99 1153,687 56,687"/><frame points="58,702 1154,702 1154,949 1154,968 56,968"/><frame points="57,963 435,963 435,1551 55,1551"/><frame points="440,961 855,961 855,1551 439,1551"/><frame points="860,964 1155,964 1155,1550 856,1550"/></page>
+    <page>
+      <image href="04\image_0004.jpg"/>
+    <frame points="92,99 1190,99 1190,650 90,650"/><frame points="90,664 1189,664 1189,961 90,961"/><frame points="92,972 520,972 520,1632 92,1632"/><frame points="523,974 862,974 862,1550 520,1550"/><frame points="864,974 1190,974 1190,1549 864,1549"/></page>
+    <page>
+      <image href="04\image_0005.jpg"/>
+    <frame points="57,95 952,95 962,64 993,71 1012,95 1043,91 1068,60 1109,1 1186,1 1186,184 1154,211 1154,650 53,650"/><frame points="56,665 1154,665 1154,861 56,861"/><frame points="55,871 465,871 465,1551 52,1551"/><frame points="468,872 1155,872 1155,1123 466,1123"/><frame points="464,1134 1155,1134 1155,1550 465,1550"/></page>
+    <page>
+      <image href="04\image_0006.jpg"/>
+    <frame points="90,97 751,97 751,638 91,638"/><frame points="753,2 1185,2 1185,636 749,636"/><frame points="91,651 1190,651 1190,1215 224,1215 205,1229 28,1229 28,1002 88,996"/><frame points="91,1224 1193,1224 1193,1550 88,1550"/></page>
+    <page>
+      <image href="04\image_0007.jpg"/>
+    <frame points="57,98 436,98 436,638 54,638"/><frame points="438,99 686,99 686,639 436,639"/><frame points="689,98 1153,98 1153,638 687,638"/><frame points="54,651 842,651 842,1176 54,1176"/><frame points="843,652 1154,652 1154,1178 842,1178"/><frame points="54,1190 1153,1190 1153,1551 53,1551"/></page>
+    <page>
+      <image href="04\image_0008.jpg"/>
+    <frame points="90,97 390,97 390,608 88,608"/><frame points="391,97 1191,97 1191,608 391,608"/><frame points="90,615 1189,615 1189,934 88,934"/><frame points="91,946 548,946 548,1550 89,1550"/><frame points="549,944 750,944 750,1552 550,1552"/><frame points="751,946 1190,946 1190,1552 752,1552"/></page>
+    <page>
+      <image href="04\image_0009.jpg"/>
+    <frame points="57,97 898,97 898,431 53,431"/><frame points="901,99 1154,99 1154,431 899,431"/><frame points="56,444 1153,444 1153,824 56,824"/><frame points="55,821 1152,821 1152,983 53,983"/><frame points="59,981 441,981 441,1633 54,1633"/><frame points="447,979 826,979 826,1550 444,1550"/><frame points="832,981 1152,981 1152,1171 829,1171"/><frame points="830,1182 1153,1182 1153,1551 827,1551"/></page>
+    <page>
+      <image href="04\image_0010.jpg"/>
+    <frame points="92,98 316,98 316,595 90,595"/><frame points="316,2 904,2 904,594 317,594"/><frame points="904,94 1190,94 1190,594 902,594"/><frame points="90,605 1189,605 1189,867 90,867"/><frame points="91,879 366,879 366,1549 92,1549"/><frame points="367,878 882,878 882,1632 366,1632"/><frame points="884,881 1190,881 1190,1229 882,1229"/><frame points="882,1241 1189,1241 1189,1551 882,1551"/></page>
+    <page>
+      <image href="04\image_0011.jpg"/>
+    <frame points="55,1 661,1 661,543 54,543"/><frame points="660,97 964,97 964,542 659,542"/><frame points="964,97 1154,97 1154,541 964,541"/><frame points="58,556 446,556 446,1189 56,1189"/><frame points="448,556 779,556 779,1188 447,1188"/><frame points="782,558 1154,558 1154,1185 780,1185"/><frame points="59,1186 917,1186 934,1167 970,1157 1012,1160 1045,1175 1059,1186 1148,1186 1148,1242 1174,1262 1186,1277 1186,1615 55,1615"/></page>
+  </body>
+</ACBF>
